@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Projeto CyberBloom: O Jardim Digital 🌸✨
+📒 Descrição
+O CyberBloom é um projeto conceitual que explora a intersecção entre a natureza orgânica e a estética futurista do cyberpunk. O objetivo foi criar uma série de visuais hiper-realistas de flora exótica que "cresce" em ambientes urbanos abandonados e luminosos, utilizando inteligência artificial para misturar texturas botânicas com neon e metal.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+Midjourney v6: Geração das imagens base com comandos focados em iluminação dramática e texturas detalhadas.
 
-> Woooow! Look at this 👀
+ChatGPT (GPT-4o): Roteiro conceitual, criação do lore do projeto e estruturação do pitch.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+CapCut: Edição e trilha sonora imersiva para o vídeo de apresentação.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Canva: Design do layout de apresentação e tipografia.
 
-### Objetivos
+🧐 Processo de Criação
+Brainstorming e Moodboard: Definição da paleta de cores (tons neon de roxo e verde-esmeralda contrastando com cinza industrial) e do conceito visual.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Engenharia de Prompt: Criação de prompts detalhados no Midjourney focando em renderização 3D realista, iluminação cinematográfica e detalhes macro das pétalas.
 
-### Template
+Curadoria: Seleção das melhores imagens geradas que mantinham uma identidade visual coesa e impactante.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Montagem e Finalização: Organização do conteúdo em uma narrativa fluida, combinando as imagens com uma trilha sonora lo-fi futurista.
 
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+🚀 Resultados
+O projeto resultou em um ensaio visual de 5 peças principais e um mini-teaser em vídeo. O contraste entre a fragilidade das flores e a frieza do cenário urbano gerou um apelo visual forte, ideal para portfólios criativos e redes sociais.
